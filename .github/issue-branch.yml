@@ -1,0 +1,9 @@
+branchName: '{issue.number}/{issue.label}/{issue.title}'
+branches:
+  - label: 'iOS'
+    prefix: 'feat/iOS/'
+  - label: 'BE'
+    prefix: 'feat/BE/'
+  - label: 'FE'
+    prefix: 'feat/FE/'
+autoCloseIssue: true
