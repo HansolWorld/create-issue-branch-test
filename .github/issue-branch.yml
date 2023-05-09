@@ -1,9 +1,9 @@
 branchName: '{issue.number}-{issue.title}'
 branches:
-  - label: 'iOS'
-    prefix: 'feat/iOS/'
-  - label: 'BE'
-    prefix: 'feat/BE/'
-  - label: 'FE'
-    prefix: 'feat/FE/'
+  - label: iOS
+    prefix: feat/iOS/
+  - label: BE
+    prefix: feat/BE/
+  - label: F
+    prefix: feat/FE/
 autoCloseIssue: true
