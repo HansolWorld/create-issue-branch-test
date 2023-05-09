@@ -4,6 +4,6 @@ branches:
     prefix: feat/iOS/
   - label: BE
     prefix: feat/BE/
-  - label: F
+  - label: FE
     prefix: feat/FE/
 autoCloseIssue: true
